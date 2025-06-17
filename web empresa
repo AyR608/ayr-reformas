@@ -1,0 +1,120 @@
+/* styles.css para AyR Reformas y Mantenimientos */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2c2c2c;
+  padding: 10px 20px;
+}
+
+.logo {
+  height: 60px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.hero {
+  background-color: #d61f1f;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  color: #d61f1f;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+input, textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #d61f1f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #b41818;
+}
+
+footer {
+  background-color: #2c2c2c;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+AyR Reformas y Mantenimientos
+Tu solución completa en construcción y reformas en Almendralejo
+
+Sobre Nosotros
+En AyR Reformas y Mantenimientos nos especializamos en ofrecer todo tipo de servicios relacionados con la construcción y las reformas. Nuestro objetivo es que nuestros clientes no tengan que preocuparse de absolutamente nada. Nos encargamos de todo, tú solo de los pagos.
+
+Servicios
+Albañilería
+Fontanería
+Carpintería
+Pladur
+Pintura
+Tejados
+Impermeabilizaciones
+Insonorizaciones
+Obra nueva
+Reformas integrales
+Contacto
+Dirección: Calle Fray Alonso Cabzas nº6, Almendralejo
+
+Teléfono: 641 395 665
+
+Email: andreinedel02@gmail.com
+
+Nombre: 
+ Email: 
+ Mensaje: 
+ Enviar
+© 2025 AyR Reformas y Mantenimientos. Todos los derechos reservados.
